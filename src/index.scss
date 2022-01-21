@@ -1,0 +1,9 @@
+* {
+  font-family: "Nunito", system-ui;
+}
+
+.movies {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
